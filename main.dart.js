@@ -85690,7 +85690,7 @@ a8(){this.ag()
 this.a4D()},
 a4D(){this.M(new A.aj7(this))},
 a4C(){this.M(new A.aj5(this))},
-H(a){var s,r=this,q=null,p="Eff %",o="gr/yd",n="Margin %",m=t.p,l=A.b([new A.bz("CARDED SPINPLAN",q),B.i,B.Vz,B.i,r.n0("1. RING FRAME",A.b([A.a8(A.b([A.C(new A.r(r.e,"Avg Count",B.f,q,q)),B.u,A.C(new A.r(r.f,"Spindles",B.f,q,q))],m),B.j,B.k,B.h),B.v,new A.r(r.r,"Required OPS",B.f,q,q)],m)),B.i,r.n0("2. WINDER",A.b([A.a8(A.b([A.C(new A.r(r.w,"Speed (m/min)",B.f,q,q)),B.u,A.C(new A.r(r.x,p,B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,r.n0("3. SIMPLEX",A.b([A.a8(A.b([A.C(new A.r(r.y,"Flyer rpm",B.f,q,q)),B.u,A.C(new A.r(r.z,"H.Roving",B.f,q,q))],m),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.Q,"TPI",B.f,q,q)),B.u,A.C(new A.r(r.as,p,B.f,q,q))],m),B.j,B.k,B.h),B.v,new A.r(r.at,"Prod Margin %",B.f,q,q)],m)),B.i,r.n0("4. FINISHER DRAWING",A.b([A.a8(A.b([A.C(new A.r(r.ax,"Speed",B.f,q,q)),B.u,A.C(new A.r(r.ay,o,B.f,q,q))],m),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.ch,p,B.f,q,q)),B.u,A.C(new A.r(r.CW,n,B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,r.n0("5. BREAKER DRAWING",A.b([A.a8(A.b([A.C(new A.r(r.cx,"Speed",B.f,q,q)),B.u,A.C(new A.r(r.cy,o,B.f,q,q))],m),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.db,p,B.f,q,q)),B.u,A.C(new A.r(r.dx,n,B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,r.n0("6. CARDING",A.b([A.a8(A.b([A.C(new A.r(r.dy,"Speed (Kg/hr)",B.f,q,q)),B.u,A.C(new A.r(r.fr,o,B.f,q,q))],m),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.fx,p,B.f,q,q)),B.u,A.C(new A.r(r.fy,n,B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,r.n0("7. RAW MATERIAL",A.b([A.a8(A.b([A.C(new A.r(r.go,"Yield %",B.f,q,q)),B.u,A.C(new A.r(r.id,"Bale Wt (Kg)",B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,A.b1(A.bK(B.zs,r.ga4B(),A.bL(q,q,B.w,q,q,q,q,q,q,B.n,q,q,B.X,q,new A.ah(A.ap(12),B.l),q,q,q,q,q)),q,1/0)],m),k=r.k2
+H(a){var s,r=this,q=null,p="Eff %",o="gr/yd",n="Margin %",m=t.p,l=A.b([new A.bz("CARDED SPINPLAN",q),B.i,B.VA,B.i,r.n0("1. RING FRAME",A.b([A.a8(A.b([A.C(new A.r(r.e,"Avg Count",B.f,q,q)),B.u,A.C(new A.r(r.f,"Spindles",B.f,q,q))],m),B.j,B.k,B.h),B.v,new A.r(r.r,"Required OPS",B.f,q,q)],m)),B.i,r.n0("2. WINDER",A.b([A.a8(A.b([A.C(new A.r(r.w,"Speed (m/min)",B.f,q,q)),B.u,A.C(new A.r(r.x,p,B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,r.n0("3. SIMPLEX",A.b([A.a8(A.b([A.C(new A.r(r.y,"Flyer rpm",B.f,q,q)),B.u,A.C(new A.r(r.z,"H.Roving",B.f,q,q))],m),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.Q,"TPI",B.f,q,q)),B.u,A.C(new A.r(r.as,p,B.f,q,q))],m),B.j,B.k,B.h),B.v,new A.r(r.at,"Prod Margin %",B.f,q,q)],m)),B.i,r.n0("4. FINISHER DRAWING",A.b([A.a8(A.b([A.C(new A.r(r.ax,"Speed",B.f,q,q)),B.u,A.C(new A.r(r.ay,o,B.f,q,q))],m),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.ch,p,B.f,q,q)),B.u,A.C(new A.r(r.CW,n,B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,r.n0("5. BREAKER DRAWING",A.b([A.a8(A.b([A.C(new A.r(r.cx,"Speed",B.f,q,q)),B.u,A.C(new A.r(r.cy,o,B.f,q,q))],m),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.db,p,B.f,q,q)),B.u,A.C(new A.r(r.dx,n,B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,r.n0("6. CARDING",A.b([A.a8(A.b([A.C(new A.r(r.dy,"Speed (Kg/hr)",B.f,q,q)),B.u,A.C(new A.r(r.fr,o,B.f,q,q))],m),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.fx,p,B.f,q,q)),B.u,A.C(new A.r(r.fy,n,B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,r.n0("7. RAW MATERIAL",A.b([A.a8(A.b([A.C(new A.r(r.go,"Yield %",B.f,q,q)),B.u,A.C(new A.r(r.id,"Bale Wt (Kg)",B.f,q,q))],m),B.j,B.k,B.h)],m)),B.i,A.b1(A.bK(B.zs,r.ga4B(),A.bL(q,q,B.w,q,q,q,q,q,q,B.n,q,q,B.X,q,new A.ah(A.ap(12),B.l),q,q,q,q,q)),q,1/0)],m),k=r.k2
 if(k.length!==0)l.push(new A.Y(B.t,A.a_(k,q,q,q,q,B.U,q,q),q))
 k=r.k1
 if(k.a!==0){s=A.ap(16)
@@ -85990,7 +85990,7 @@ a8(){this.ag()
 this.a5g()},
 a5g(){this.M(new A.ajk(this))},
 a5f(){this.M(new A.aji(this))},
-H(a){var s,r=this,q=null,p="Eff %",o="Speed",n="gr/yd",m="Margin %",l=t.p,k=A.b([new A.bz("COMBER SPINPLAN",q),B.i,B.VA,B.i,r.kP("1. RING FRAME",A.b([A.a8(A.b([A.C(new A.r(r.e,"Avg Count",B.f,q,q)),B.u,A.C(new A.r(r.f,"Spindles",B.f,q,q))],l),B.j,B.k,B.h),B.v,new A.r(r.r,"Required OPS",B.f,q,q)],l)),B.i,r.kP("2. WINDER",A.b([A.a8(A.b([A.C(new A.r(r.w,"Speed (m/min)",B.f,q,q)),B.u,A.C(new A.r(r.x,p,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("3. SIMPLEX",A.b([A.a8(A.b([A.C(new A.r(r.y,"Flyer rpm",B.f,q,q)),B.u,A.C(new A.r(r.z,"H.Roving",B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.Q,"TPI",B.f,q,q)),B.u,A.C(new A.r(r.as,p,B.f,q,q))],l),B.j,B.k,B.h),B.v,new A.r(r.at,"Prod Margin %",B.f,q,q)],l)),B.i,r.kP("4. FINISHER DRAWING",A.b([A.a8(A.b([A.C(new A.r(r.ax,o,B.f,q,q)),B.u,A.C(new A.r(r.ay,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.ch,p,B.f,q,q)),B.u,A.C(new A.r(r.CW,m,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("5. COMBER",A.b([A.a8(A.b([A.C(new A.r(r.cx,o,B.f,q,q)),B.u,A.C(new A.r(r.cy,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.db,p,B.f,q,q)),B.u,A.C(new A.r(r.dx,"Noil %",B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("6. LAP FORMER",A.b([A.a8(A.b([A.C(new A.r(r.dy,o,B.f,q,q)),B.u,A.C(new A.r(r.fr,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.fx,p,B.f,q,q)),B.u,A.C(new A.r(r.fy,m,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("7. BREAKER DRAWING",A.b([A.a8(A.b([A.C(new A.r(r.go,o,B.f,q,q)),B.u,A.C(new A.r(r.id,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.k1,p,B.f,q,q)),B.u,A.C(new A.r(r.k2,m,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("8. CARDING",A.b([A.a8(A.b([A.C(new A.r(r.k3,"Speed (Kg/hr)",B.f,q,q)),B.u,A.C(new A.r(r.k4,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.ok,p,B.f,q,q)),B.u,A.C(new A.r(r.p1,m,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("9. RAW MATERIAL",A.b([A.a8(A.b([A.C(new A.r(r.p2,"Yield %",B.f,q,q)),B.u,A.C(new A.r(r.p3,"Bale Wt (Kg)",B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,A.b1(A.bK(B.zs,r.ga5e(),A.bL(q,q,B.w,q,q,q,q,q,q,B.n,q,q,B.X,q,new A.ah(A.ap(12),B.l),q,q,q,q,q)),q,1/0)],l),j=r.R8
+H(a){var s,r=this,q=null,p="Eff %",o="Speed",n="gr/yd",m="Margin %",l=t.p,k=A.b([new A.bz("COMBER SPINPLAN",q),B.i,B.VB,B.i,r.kP("1. RING FRAME",A.b([A.a8(A.b([A.C(new A.r(r.e,"Avg Count",B.f,q,q)),B.u,A.C(new A.r(r.f,"Spindles",B.f,q,q))],l),B.j,B.k,B.h),B.v,new A.r(r.r,"Required OPS",B.f,q,q)],l)),B.i,r.kP("2. WINDER",A.b([A.a8(A.b([A.C(new A.r(r.w,"Speed (m/min)",B.f,q,q)),B.u,A.C(new A.r(r.x,p,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("3. SIMPLEX",A.b([A.a8(A.b([A.C(new A.r(r.y,"Flyer rpm",B.f,q,q)),B.u,A.C(new A.r(r.z,"H.Roving",B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.Q,"TPI",B.f,q,q)),B.u,A.C(new A.r(r.as,p,B.f,q,q))],l),B.j,B.k,B.h),B.v,new A.r(r.at,"Prod Margin %",B.f,q,q)],l)),B.i,r.kP("4. FINISHER DRAWING",A.b([A.a8(A.b([A.C(new A.r(r.ax,o,B.f,q,q)),B.u,A.C(new A.r(r.ay,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.ch,p,B.f,q,q)),B.u,A.C(new A.r(r.CW,m,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("5. COMBER",A.b([A.a8(A.b([A.C(new A.r(r.cx,o,B.f,q,q)),B.u,A.C(new A.r(r.cy,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.db,p,B.f,q,q)),B.u,A.C(new A.r(r.dx,"Noil %",B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("6. LAP FORMER",A.b([A.a8(A.b([A.C(new A.r(r.dy,o,B.f,q,q)),B.u,A.C(new A.r(r.fr,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.fx,p,B.f,q,q)),B.u,A.C(new A.r(r.fy,m,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("7. BREAKER DRAWING",A.b([A.a8(A.b([A.C(new A.r(r.go,o,B.f,q,q)),B.u,A.C(new A.r(r.id,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.k1,p,B.f,q,q)),B.u,A.C(new A.r(r.k2,m,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("8. CARDING",A.b([A.a8(A.b([A.C(new A.r(r.k3,"Speed (Kg/hr)",B.f,q,q)),B.u,A.C(new A.r(r.k4,n,B.f,q,q))],l),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.ok,p,B.f,q,q)),B.u,A.C(new A.r(r.p1,m,B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,r.kP("9. RAW MATERIAL",A.b([A.a8(A.b([A.C(new A.r(r.p2,"Yield %",B.f,q,q)),B.u,A.C(new A.r(r.p3,"Bale Wt (Kg)",B.f,q,q))],l),B.j,B.k,B.h)],l)),B.i,A.b1(A.bK(B.zs,r.ga5e(),A.bL(q,q,B.w,q,q,q,q,q,q,B.n,q,q,B.X,q,new A.ah(A.ap(12),B.l),q,q,q,q,q)),q,1/0)],l),j=r.R8
 if(j.length!==0)k.push(new A.Y(B.t,A.a_(j,q,q,q,q,B.U,q,q),q))
 j=r.p4
 if(j.a!==0){s=A.ap(16)
@@ -86687,7 +86687,7 @@ a8(){this.ag()
 this.a6B()},
 a6B(){this.M(new A.akD(this))},
 a6A(){this.M(new A.akC(this))},
-H(a){var s,r=this,q=null,p=t.p,o=A.b([new A.bz("Draw Frame Blending",q),B.i,B.Vx,B.i,A.a8(A.b([A.C(new A.r(r.e,"Cotton %",B.f,q,q)),B.u,A.C(new A.r(r.f,"Polyester %",B.f,q,q))],p),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.r,"Doubling",B.f,q,q)),B.u,A.C(new A.r(r.w,"Output gr/yd",B.f,q,q))],p),B.j,B.k,B.h),B.v,new A.r(r.x,"Draft",B.f,q,q),B.i,A.b1(A.bK(B.a1,r.ga6z(),A.bL(q,q,B.w,q,q,q,q,q,q,B.n,q,q,B.X,q,new A.ah(A.ap(12),B.l),q,q,q,q,q)),q,1/0)],p),n=r.at
+H(a){var s,r=this,q=null,p=t.p,o=A.b([new A.bz("Draw Frame Blending",q),B.i,B.Vy,B.i,A.a8(A.b([A.C(new A.r(r.e,"Cotton %",B.f,q,q)),B.u,A.C(new A.r(r.f,"Polyester %",B.f,q,q))],p),B.j,B.k,B.h),B.v,A.a8(A.b([A.C(new A.r(r.r,"Doubling",B.f,q,q)),B.u,A.C(new A.r(r.w,"Output gr/yd",B.f,q,q))],p),B.j,B.k,B.h),B.v,new A.r(r.x,"Draft",B.f,q,q),B.i,A.b1(A.bK(B.a1,r.ga6z(),A.bL(q,q,B.w,q,q,q,q,q,q,B.n,q,q,B.X,q,new A.ah(A.ap(12),B.l),q,q,q,q,q)),q,1/0)],p),n=r.at
 if(n.length!==0)o.push(new A.Y(B.t,A.a_(n,q,q,q,q,B.U,q,q),q))
 n=r.y
 if(n.length!==0){s=A.ap(16)
@@ -87888,7 +87888,7 @@ a8(){this.ag()
 this.ahR()},
 ahR(){this.M(new A.arO(this))},
 ahQ(){this.M(new A.arN(this))},
-H(a){var s,r,q=this,p=null,o=t.p,n=A.b([new A.bz("Twist Per Inch",p),B.i,B.Vy,B.i,A.a8(A.b([A.C(new A.r(q.e,"Count (Nec)",B.f,p,p)),B.u,A.C(new A.r(q.f,"TM",B.f,p,p))],o),B.j,B.k,B.h),B.i,A.b1(A.bK(B.a1,q.gahP(),A.bL(p,p,B.w,p,p,p,p,p,p,B.n,p,p,B.X,p,new A.ah(A.ap(12),B.l),p,p,p,p,p)),p,1/0)],o)
+H(a){var s,r,q=this,p=null,o=t.p,n=A.b([new A.bz("Twist Per Inch",p),B.i,B.Vz,B.i,A.a8(A.b([A.C(new A.r(q.e,"Count (Nec)",B.f,p,p)),B.u,A.C(new A.r(q.f,"TM",B.f,p,p))],o),B.j,B.k,B.h),B.i,A.b1(A.bK(B.a1,q.gahP(),A.bL(p,p,B.w,p,p,p,p,p,p,B.n,p,p,B.X,p,new A.ah(A.ap(12),B.l),p,p,p,p,p)),p,1/0)],o)
 if(q.y)B.b.G(n,A.b([B.i,B.Wj],o))
 s=q.r
 if(s.length!==0){r=A.ap(16)
@@ -88557,7 +88557,7 @@ s===$&&A.a()
 s.l()
 this.a2p()},
 H(a){var s,r=null,q=A.ap(16)
-q=A.bG(A.fS(r,B.VB,B.P,r,r,r,r,B.t,1/0),B.w,8,r,new A.ah(q,B.l))
+q=A.bG(A.fS(r,B.Vx,B.P,r,r,r,r,B.t,1/0),B.w,8,r,new A.ah(q,B.l))
 s=this.d
 s===$&&A.a()
 s=A.bJ(A.aw(A.b([new A.Y(B.t,q,r),A.fS(r,new A.BX(B.Hx,s,!0,B.aU,B.n,B.XG,B.n,B.a6,r),B.P,B.w,r,r,r,r,r),A.C(new A.BZ(s,B.Gn,r)),B.Ma],t.p),B.j,B.k,B.h),!0)
@@ -93992,12 +93992,12 @@ B.UM=new A.k(!0,B.kJ,null,null,null,null,14,null,B.kj,null,null,null,null,null,n
 B.Vt=new A.aO("Textile Engineer | Yarn Spinning | Textile Technology & Digitalization",null,B.UM,null,null,null,null,null,null,null)
 B.Vu=new A.aO("Convert between Count, Force, Speed, Flow, and more.",null,B.Z,B.S,null,null,null,null,null,null)
 B.Vv=new A.aO("This tool helps to calculate the Production of Drawing in Bags/Day.",null,B.Z,B.S,null,null,null,null,null,null)
-B.Vx=new A.aO("Calculate cans for blending materials on Draw Frame.",null,B.Z,null,null,null,null,null,null,null)
-B.Vy=new A.aO("This tool helps to calculate the required TM/TPI.",null,B.Z,B.S,null,null,null,null,null,null)
-B.Vz=new A.aO("Calculate required no. of deliveries/machines for Carded Yarn.",null,B.Z,B.S,null,null,null,null,null,null)
-B.VA=new A.aO("Calculate required no. of deliveries/machines for Combed Yarn.",null,B.Z,B.S,null,null,null,null,null,null)
 B.Ss=new A.k(!0,B.n,null,null,null,null,24,B.a7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.VB=new A.aO("Textile Calculations",null,B.Ss,B.S,null,null,null,null,null,null)
+B.Vx=new A.aO("Yarn Calculations",null,B.Ss,B.S,null,null,null,null,null,null)
+B.Vy=new A.aO("Calculate cans for blending materials on Draw Frame.",null,B.Z,null,null,null,null,null,null,null)
+B.Vz=new A.aO("This tool helps to calculate the required TM/TPI.",null,B.Z,B.S,null,null,null,null,null,null)
+B.VA=new A.aO("Calculate required no. of deliveries/machines for Carded Yarn.",null,B.Z,B.S,null,null,null,null,null,null)
+B.VB=new A.aO("Calculate required no. of deliveries/machines for Combed Yarn.",null,B.Z,B.S,null,null,null,null,null,null)
 B.VC=new A.aO("\xb0F",null,null,null,null,null,null,null,null,null)
 B.VD=new A.aO("Add Variety",null,null,null,null,null,null,null,null,null)
 B.U0=new A.k(!0,B.w,null,null,null,null,null,B.d3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
